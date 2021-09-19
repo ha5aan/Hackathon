@@ -82,5 +82,5 @@ function tryagain() {
    
 }
 function nextLevel(){
-    window.location="../Hackathon/level3.html"
+    window.location="./Hackathon/level3.html"
 }
