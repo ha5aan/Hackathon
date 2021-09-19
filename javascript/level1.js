@@ -36,7 +36,7 @@ let selectcolour="blue"
     baloonNumber.style.backgroundRepeat="no-repeat";
         baloonNumber.style.backgroundSize= "100px 100px";
         baloonNumber.style.opacity="0.2"
-        baloonNumber.style.backgroundImage="url(./../Images/pngkit_popcorn-kernel-png_1159285.png)"
+        baloonNumber.style.backgroundImage="url(./../Hackathon/Images/pngkit_popcorn-kernel-png_1159285.png)"
 
         
         if(lives===1){
@@ -86,7 +86,7 @@ function tryagain() {
    
 }
 function nextLevel(){
-    window.location="./level2.html"
+    window.location="./Hackathon/level2.html"
 }
 
 function logout(){
