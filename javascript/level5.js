@@ -105,7 +105,7 @@ function tryagain() {
    
 }
 function nextLevel(){
-    window.location="./Hackathon/level5.html"
+    window.location="./../Hackathonlevel5.html"
 }
 
 interval=setInterval(change_color,500)
