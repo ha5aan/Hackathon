@@ -23,7 +23,7 @@ auth.signInWithEmailAndPassword(email, password)
 
       var user = userCredential.user;
       console.log(user)
-window.location="./../level1.html"      // ...
+window.location="./../Hackathon/level1.html"      // ...
     })
     .catch((error) => {
       var errorCode = error.code;
